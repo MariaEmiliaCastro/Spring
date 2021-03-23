@@ -1,0 +1,14 @@
+127.0.0.1 - - [11/Mar/2021:09:31:35 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:31:36 -0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 161
+127.0.0.1 - - [11/Mar/2021:09:45:10 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:45:11 -0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 161
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:45:23 -0300] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:45:34 -0300] "GET /spring-mvc-demo/processForm?studentName=dsckjdfsdkjscssadd HTTP/1.1" 404 694
+127.0.0.1 - - [11/Mar/2021:09:50:27 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:50:28 -0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 161
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:50:35 -0300] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:50:44 -0300] "GET /spring-mvc-demo/processForm?studentName=John+Doe HTTP/1.1" 200 194
+127.0.0.1 - - [11/Mar/2021:09:52:43 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:52:45 -0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 212
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:52:47 -0300] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:09:52:51 -0300] "GET /spring-mvc-demo/processForm?studentName=Billy HTTP/1.1" 200 191
