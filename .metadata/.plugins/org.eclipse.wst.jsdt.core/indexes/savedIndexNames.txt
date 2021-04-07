@@ -1,8 +1,1 @@
 INDEX VERSION 1.4+C:\Users\lilee\Documents\spring-learning\eclipse-ws\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2996913803.index
-237508677.index
-424339257.index
-821882040.index
-1884460847.index
-1018182336.index
-3617312122.index
